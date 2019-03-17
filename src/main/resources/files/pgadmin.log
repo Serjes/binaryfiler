@@ -1,0 +1,6 @@
+ERROR  : 13:01:11: Error: Error connecting to the server: fe_sendauth: no password supplied
+ERROR  : 13:03:24: Error: ERROR:  permission denied for relation users
+ERROR  : 13:04:12: Error: ERROR:  permission denied for relation users
+ERROR  : 13:05:11: Error: ERROR:  permission denied for relation contracts
+ERROR  : 13:06:52: Error: ERROR:  permission denied for relation users
+ERROR  : 13:13:59: Error: ERROR:  permission denied for relation genres
